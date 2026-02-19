@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpuserguide.readthedocs.io/en/latest/
