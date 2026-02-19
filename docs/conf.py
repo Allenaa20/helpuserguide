@@ -28,4 +28,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://helpduckduckgo.readthedocs.io/en/latest/'
+html_baseurl = 'https://helpuserguide.readthedocs.io/en/latest/'
